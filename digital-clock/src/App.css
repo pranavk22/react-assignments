@@ -1,0 +1,33 @@
+.outer-circle {
+  height: 400px;
+  width: 400px;
+  background-color: #535353;
+  border-radius: 50%;
+  display: inline-block;
+  margin: 24px;
+  text-align-last: center !important;
+}
+
+.inner-circle {
+  height: 350px;
+  width: 350px;
+  background-color: #242424;
+  border-radius: 50%;
+  display: inline-block;
+  margin: 24px;
+  text-align-last: center !important;
+}
+
+.switch-container {
+  
+  text-align-last: center !important;
+}
+
+.container {
+  text-align-last: center !important;
+}
+.inner-text {
+  color: cyan;
+  font-size: x-large;
+  margin-top: 100px;
+}
